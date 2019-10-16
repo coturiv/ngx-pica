@@ -20,10 +20,10 @@
       "dom"
     ],
     "paths": {
-      "@digitalascetic/ngx-pica": [
+      "@coturiv/ngx-pica": [
         "dist/digitalascetic/ngx-pica"
       ],
-      "@digitalascetic/ngx-pica/*": [
+      "@coturiv/ngx-pica/*": [
         "dist/digitalascetic/ngx-pica/*"
       ]
     }

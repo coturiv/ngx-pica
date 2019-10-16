@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "@digitalascetic/ngx-pica": {
+    "@coturiv/ngx-pica": {
       "root": "projects/digitalascetic/ngx-pica",
       "sourceRoot": "projects/digitalascetic/ngx-pica/src",
       "projectType": "library",
@@ -39,5 +39,5 @@
       }
     }
   },
-  "defaultProject": "@digitalascetic/ngx-pica"
+  "defaultProject": "@coturiv/ngx-pica"
 }
